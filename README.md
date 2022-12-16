@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on anything and everything. My current professional focus is automation (in Python), and data analysis in R.
 - 📫 You can reach me at guidrezza@gmail.com, or on my LinkedIn https://www.linkedin.com/in/guilherme-busato/
 
-  My repositories represent different projects I worked on throughout my University education, along with a list of other projects I have worked on professionally.  
-  The latter are now shown due to company confidentiality.
+  My repositories represent different projects I worked on throughout my University education, along with a list of other projects  
+  I have worked on professionally. The latter are now shown for company confidentiality reasons.
 <!---
 guidrezza/guidrezza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
