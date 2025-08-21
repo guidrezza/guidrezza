@@ -14,22 +14,26 @@ coding, drinking coffee, and blasting classic rock
 
 ---  
 
-### 👨🏻‍🎓 Foundations  
+## 👨🏻‍🎓 Foundations  
 - [CS + Stats at UIUC](https://www.usnews.com/best-graduate-schools/top-science-schools/university-of-illinois-at-urbana-champaign-145637)
+![alt text](https://drive.google.com/thumbnail?id=1pSWDRABQxoo09hQ6EuBrS8JTBeEm13Hq=w150)  
+<br>  
 
-### 😎 What I am up to  
+## 😎 What I am up to  
 - Building random stuff way past my bedtime  
 - Developer-focused applications  
 - Open sourcing  
 - Trying out new tech  
 - _Probably listening to this_ ⬇️
 
-     ![alt text](https://drive.google.com/thumbnail?id=1GAJxMFP7yHDu9_gtZ2idwiMjOK2OCl6J&sz=w100)  
+     [![alt text](https://drive.google.com/thumbnail?id=1GAJxMFP7yHDu9_gtZ2idwiMjOK2OCl6J&sz=w150)](https://open.spotify.com/playlist/6HPsoOWqcORoD3J0kj3Tm3?si=f4baca50b1f84aaa)  
+<br>  
 
-### 🏃🏻‍➡️ Hobbies  
+## 🏃🏻‍➡️ Hobbies  
 - Gaming, running, music, traveling  
+<br>  
 
-### 🤓 Work  
+## 🤓 Work  
 - Currently a developer at [Becker's Healthcare](https://hubs.beckershealthcare.com/about)  
 - AI agents, internal solutions, automation & process improvement  
 - WP VIP web dev  
