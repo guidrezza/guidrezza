@@ -21,7 +21,7 @@ coding, drinking coffee, and blasting classic rock
 ---  
 
 ## 👨🏻‍🎓 Foundations  
-- [CS and Statistics at UIUC](https://www.usnews.com/best-graduate-schools/top-science-schools/university-of-illinois-at-urbana-champaign-145637)  
+- [CS at UIUC](https://www.usnews.com/best-graduate-schools/top-science-schools/university-of-illinois-at-urbana-champaign-145637)  
 
      [![alt text](https://drive.google.com/thumbnail?id=1DwAEZX0xWp8PGd2BZsSInO5gr0O8H9kB&sz=w150)](https://guidrezza.com)  
 
