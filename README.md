@@ -2,7 +2,7 @@
 
 # 👋 hey, I'm Nick  
 
-my real name is **Guilherme "Nick" Drezza**.  
+my full name is **Guilherme "Nick" Drezza**  
 
 coding, drinking coffee, and blasting classic rock  
 
