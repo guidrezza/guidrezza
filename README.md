@@ -13,8 +13,8 @@ coding, drinking coffee, and blasting classic rock
 <p align="center">
   <a href="https://guidrezza.com"><img src="https://img.shields.io/badge/👨🏻‍💻-Website-blue?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/guidrezza/"><img src="https://img.shields.io/badge/💼-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://guidrezza.com#email"><img src="https://img.shields.io/badge/📫-Email-red?style=for-the-badge"></a>
-  <a href="https://guidrezza.com#phone"><img src="https://img.shields.io/badge/📞-Call-green?style=for-the-badge"></a>
+  <a href="mailto:guidrezza@gmail.com"><img src="https://img.shields.io/badge/📫-guidrezza@gmail.com-red?style=for-the-badge"></a>
+  <a href="tel:+12174199668"><img src="https://img.shields.io/badge/📞-(+1)217--419--9668-green?style=for-the-badge"></a>
 </p>
 
 </div>  
