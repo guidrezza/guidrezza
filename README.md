@@ -6,7 +6,7 @@ my full name is **Guilherme "Nick" Drezza**
 
 coding, drinking coffee, and blasting classic rock  
 
-[![alt text](https://drive.google.com/thumbnail?id=1lbJiaGYzCG58nzqRQisIJGZ3cD1B2E8M&sz=w150)](https://guidrezza.com)  
+<img src="/nila.png" alt="nila" width="180" height="180">  
 
 [check out my website (it's pretty cool)](https://guidrezza.com)  
 
@@ -23,7 +23,7 @@ coding, drinking coffee, and blasting classic rock
 ## 👨🏻‍🎓 Foundations  
 - [CS at UIUC](https://www.usnews.com/best-graduate-schools/top-science-schools/university-of-illinois-at-urbana-champaign-145637)  
 
-     [![alt text](https://drive.google.com/thumbnail?id=1DwAEZX0xWp8PGd2BZsSInO5gr0O8H9kB&sz=w150)](https://guidrezza.com)  
+     <img src="/uiuc_alma.png" alt="nick at uiuc alma" width="180" height="180">  
 
 ## 😎 What I am up to  
 - Building random stuff way past my bedtime  
@@ -32,7 +32,7 @@ coding, drinking coffee, and blasting classic rock
 - Trying out new tech  
 - _Probably listening to this_ ⬇️
 
-     [![alt text](https://drive.google.com/thumbnail?id=1GAJxMFP7yHDu9_gtZ2idwiMjOK2OCl6J&sz=w150)](https://open.spotify.com/playlist/6HPsoOWqcORoD3J0kj3Tm3?si=f4baca50b1f84aaa)  
+     <img src="/playlist_cover.png" alt="my spotify playlist" width="180" height="180">  
 
 ## 🏃🏻‍➡️ Hobbies  
 - Gaming, running, music, traveling  
