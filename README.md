@@ -32,7 +32,7 @@ coding, drinking coffee, and blasting classic rock
 - Trying out new tech  
 - _Probably listening to this_ ⬇️
 
-     <img src="/playlist_cover.png" alt="my spotify playlist" width="180" height="180">  
+     [<img src="/playlist_cover.png" alt="my spotify playlist" width="180" height="180">](https://open.spotify.com/playlist/6HPsoOWqcORoD3J0kj3Tm3?si=IkFx0XkPTMCNAeC3jGfx5A&pi=GZGZbv1GTSi2c)  
 
 ## 🏃🏻‍➡️ Hobbies  
 - Gaming, running, music, traveling  
