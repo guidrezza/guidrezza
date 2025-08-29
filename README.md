@@ -30,9 +30,7 @@ coding, drinking coffee, and blasting classic rock
 - Developer-focused applications  
 - Open sourcing  
 - Trying out new tech  
-- _Probably listening to this_ ⬇️
-
-     [<img src="/playlist_cover.png" alt="my spotify playlist" width="180" height="180">](https://open.spotify.com/playlist/6HPsoOWqcORoD3J0kj3Tm3?si=IkFx0XkPTMCNAeC3jGfx5A&pi=GZGZbv1GTSi2c)  
+- [_Probably listening to this🎸_](https://music.youtube.com/playlist?list=PLi1SPCPjoHGMyXQehakvrghHIzThe4Ic6&si=1gAVezuSrUcf1hO2)
 
 ## 🏃🏻‍➡️ Hobbies  
 - Gaming, running, music, traveling  
