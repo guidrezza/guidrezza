@@ -23,8 +23,6 @@ coding, drinking coffee, and blasting classic rock
 ## 👨🏻‍🎓 Foundations  
 - [CS at UIUC](https://www.usnews.com/best-graduate-schools/top-science-schools/university-of-illinois-at-urbana-champaign-145637)  
 
-     <img src="/uiuc_alma.png" alt="nick at uiuc alma" width="180" height="180">  
-
 ## 😎 What I am up to  
 - Building random stuff way past my bedtime  
 - Developer-focused applications  
