@@ -1,8 +1,8 @@
 <div align="center">  
 
-# 👋 hey, I'm Nick  
+# 👋 hey, nice to meet you
 
-my full name is **Guilherme "Nick" Drezza**  
+my name is **Guilherme Nick Drezza**  
 
 coding, drinking coffee, and blasting classic rock  
 
