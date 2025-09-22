@@ -34,7 +34,7 @@ coding, drinking coffee, and blasting classic rock
 - Gaming, running, music, traveling  
 
 ## 🤓 Work  
-- Currently a developer at [Becker's Healthcare](https://hubs.beckershealthcare.com/about)  
+- Software Engineer at [Becker's Healthcare](https://hubs.beckershealthcare.com/about)  
 - AI agents, internal solutions, automation & process improvement  
 - WP VIP web dev  
 - SQL DB analysis and maintenance  
