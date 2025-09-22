@@ -1,8 +1,8 @@
 <div align="center">  
 
-# 👋 hey, nice to meet you
+# 👋 hey, I'm Nick
 
-my name is **Guilherme Nick Drezza**  
+my name is **Guilherme Nick Drezza** and I am a software engineer  
 
 coding, drinking coffee, and blasting classic rock  
 
