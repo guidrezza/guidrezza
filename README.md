@@ -58,7 +58,7 @@ _this is Nila_
 
 ## 🏃🏻‍➡️ Hobbies  
 - running, music, traveling, gaming, open-sourcing  
-- [_probably listening to this 🎸_](https://music.youtube.com/playlist?list=PLi1SPCPjoHGMyXQehakvrghHIzThe4Ic6&si=1gAVezuSrUcf1hO2)
+- [_probably listening to these 🎸_](https://open.spotify.com/user/guidrezza)
 
 ---
 
