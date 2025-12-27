@@ -1,16 +1,16 @@
 <div align="center">  
 
-# 👋 hey, I'm Nick
-software engineer building llm agents, rag systems, automation, and internal dev/data tools  
+# Hey, I'm Nick 👋
+Software engineer building LLM agents, RAG systems, automation, and internal dev/data tools  
 
-my name is **Guilherme Nick Drezza**  
-*coding, drinking coffee, and blasting classic rock*  
+My name is **Guilherme Nick Drezza**  
+*Coding, drinking coffee, and blasting classic rock*  
 
 <img src="/nila.png" alt="nila" width="180" height="180">  
 
-_this is Nila_
+_This is Nila_
 
-[check out my website (it's pretty cool)](https://guidrezza.com)  
+[Check out my website (it's pretty cool)](https://guidrezza.com)  
 
 <p align="center">
   <a href="https://guidrezza.com"><img src="https://img.shields.io/badge/👨🏻‍💻-Website-blue?style=for-the-badge"></a>
