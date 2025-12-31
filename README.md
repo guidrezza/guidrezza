@@ -1,6 +1,9 @@
 <div align="center">  
 
 # Hey, I'm Nick 👋
+
+[Check out my website (it's pretty cool)](https://guidrezza.com)  
+
 Software engineer building LLM agents, RAG systems, automation, and internal dev/data tools  
 
 My name is **Guilherme Nick Drezza**  
@@ -9,8 +12,6 @@ My name is **Guilherme Nick Drezza**
 <img src="/nila.png" alt="nila" width="180" height="180">  
 
 _This is Nila_
-
-[Check out my website (it's pretty cool)](https://guidrezza.com)  
 
 <p align="center">
   <a href="https://guidrezza.com"><img src="https://img.shields.io/badge/👨🏻‍💻-Website-blue?style=for-the-badge"></a>
