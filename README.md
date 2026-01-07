@@ -1,31 +1,31 @@
 <div align="center">  
 
-# Welcome👋  
+# 👋 Hi, I'm Nick  
+**Guilherme Nick Drezza - Software Developer**  
 
-My name is Guilherme Drezza  
+### 💼 Professional Focus  
+Backend - Automation - AI Agents - RAG Systems - Web Dev  
+DB Managment - Dat Apps - Events Infrastructure - Custom Solutions  
 
-I go by my middle name, Nick  
+### 🧑‍💻 Personal Work  
+I love making cool open-source websites and tools.  
+[**Check them out on my website**](https://guidrezza.com)  
 
-I'm a software developer  
-
-[Check out my website, you can find my projects here](https://guidrezza.com)  
-
-At work, I build AI agents, RAG systems, automations, and internal dev/data tools  
-
-In my free time, I like to build [open-source projects of all kinds](https://guidrezza.com)  
-
-<img src="/nila.png" alt="nila" width="180" height="180">  
-
-_This is Nila ♡_  
+### 📫 Let's Connect  
+`guidrezza@gmail.com`  
 
 <p align="center">
-  <a href="https://guidrezza.com"><img src="https://img.shields.io/badge/Website-green?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/guidrezza/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:guidrezza@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge"></a>
-  <a href="https://ko-fi.com/guidrezza"><img src="https://img.shields.io/badge/Support-yellow?style=for-the-badge"></a>
+  <a href="https://guidrezza.com"><img src="https://img.shields.io/badge/Website-28a745?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/guidrezza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:guidrezza@gmail.com"><img src="https://img.shields.io/badge/Mailto-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://ko-fi.com/guidrezza"><img src="https://img.shields.io/badge/Support-ffca28?style=for-the-badge&logo=kofi&logoColor=black"></a>
 </p>
 
-</div>  
+### 💛 Chief Happiness Officer: Nila  
+
+<img src="/nila.png" alt="nila" width="200" height="200" style="border-radius: 50%;">  
+
+</div>
 
 ---
 
@@ -64,8 +64,8 @@ _This is Nila ♡_
 ---
 
 ## 🏃🏻‍➡️ Hobbies  
-- running, music, traveling, gaming, open-sourcing  
-- [_probably listening to these 🎸_](https://open.spotify.com/user/guidrezza)
+- Running, music, traveling, gaming, open-sourcing  
+- [_Probably listening to these 🎸_](https://open.spotify.com/user/guidrezza)
 
 ---
 
