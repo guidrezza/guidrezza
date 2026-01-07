@@ -1,22 +1,28 @@
 <div align="center">  
 
-# Hey, I'm Nick 👋
+# Welcome👋  
 
-[Check out my website (it's pretty cool)](https://guidrezza.com)  
+My name is Guilherme Drezza  
 
-Software engineer building LLM agents, RAG systems, automation, and internal dev/data tools  
+I go by my middle name, Nick  
 
-My name is **Guilherme Nick Drezza**  
-*Coding, drinking coffee, and blasting classic rock*  
+I'm a software developer  
+
+[Check out my website, you can find my projects here](https://guidrezza.com)  
+
+At work, I build AI agents, RAG systems, automations, and internal dev/data tools  
+
+In my free time, I like to build [open-source projects of all kinds](https://guidrezza.com)  
 
 <img src="/nila.png" alt="nila" width="180" height="180">  
 
-_This is Nila_
+_This is Nila ♡_  
 
 <p align="center">
-  <a href="https://guidrezza.com"><img src="https://img.shields.io/badge/👨🏻‍💻-Website-blue?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/guidrezza/"><img src="https://img.shields.io/badge/💼-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:guidrezza@gmail.com"><img src="https://img.shields.io/badge/📫-guidrezza@gmail.com-red?style=for-the-badge"></a>
+  <a href="https://guidrezza.com"><img src="https://img.shields.io/badge/Website-green?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/guidrezza/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:guidrezza@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge"></a>
+  <a href="https://ko-fi.com/guidrezza"><img src="https://img.shields.io/badge/Support-yellow?style=for-the-badge"></a>
 </p>
 
 </div>  
