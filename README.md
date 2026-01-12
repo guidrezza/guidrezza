@@ -65,7 +65,6 @@ I love making cool open-source websites and tools.
 
 ## 🏃🏻‍➡️ Hobbies  
 - Running, music, traveling, gaming, open-sourcing  
-- [_Probably listening to these 🎸_](https://open.spotify.com/user/guidrezza)
 
 ---
 
